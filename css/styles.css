@@ -1,0 +1,30 @@
+h1 {
+  color:#ffffff;
+  font-style: bold;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 32px;
+}
+
+h2 {
+  font-style: italic, bold;
+  color: #dadada;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 22px;
+}
+
+h3 {
+  font-style: italic;
+  color: #dadada;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 18px;
+}
+
+p {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+  background-color: #444444;
+}
