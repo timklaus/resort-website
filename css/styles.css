@@ -1,0 +1,28 @@
+h1 {
+  color: maroon;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 32px;
+}
+
+h2 {
+  color: hotpink;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+}
+
+h3 {
+  font-style: italic;
+  color: hotpink;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+p {
+  color: #4f4f4f;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+  background-color: #27cdcb;
+}
